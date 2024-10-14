@@ -1,7 +1,0 @@
-Web-ohjelmointi, palautettava harjoitus 8
-Riikka Naamanka, TIK24KM
-14.10.2024
-
-https://github.com/riikkana/web_harjoitus8
-
-api_key = 0b2fd73a000fa637490f2f2f82e27750
